@@ -1,6 +1,5 @@
-Rails.application.routes.draw do
+Grammable::Application.routes.draw do
   devise_for :users
   root "grams#index"
-  resources :grams, only: [:new, :create]
-  resources :grams, only: [:new, :create, :show, :edit, :update]
+  resources :grams
 end
