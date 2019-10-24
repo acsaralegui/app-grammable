@@ -1,24 +1,30 @@
-# README
+# easilysmart 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+An Instagram clone that was built using industry-standard, test-driven development following numerous red/green/refactor cycles.
+Here is a live feed of the website. [here](https://grammable-saralegui.herokuapp.com) If you would like to create a account and try, go right ahead.
 
-* Ruby version
 
-* System dependencies
+Test Driven Development is the industry standard. learned how to build automated software test in ruby, ensure good test coverage, and release prefectly tested code on the level of professional developer
 
-* Configuration
 
-* Database creation
+# Features: 
 
-* Database initialization
+* Contains HTML, CSS, RUBY, Rails, and Algorithms
 
-* How to run the test suite
+* Devise is used for user authentication and sign-in forms, could be used for email as well.
 
-* Services (job queues, cache servers, search engines, etc.)
+* Carrierwave is used for aws.
 
-* Deployment instructions
+* Bootstrap is also used in this application
 
-* ...
+* Postgresql is the database that is being used in this application.
+
+
+
+<img src="images/screenshot.jpg">
+
+# Acknowledgments
+
+University of Arizona coding bootcamp
+
